@@ -1,3 +1,8 @@
+# venv
+py -3.10 -m venv .dsevenv
+.\.dsevenv\Scripts\Activate.ps1
+python.exe -m pip install --upgrade pip
+
 # python-template
 
 Precondition:
