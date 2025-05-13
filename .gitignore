@@ -1,3 +1,4 @@
 .dsevenv
 README.mdgit add
 data/models/*
+nodepads/*
